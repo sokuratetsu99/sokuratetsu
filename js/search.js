@@ -3,12 +3,12 @@ const images = [
   "images/sokuratetsu-front.jpg",
   "images/sokuratetsu-45.jpg",
   "images/sokuratetsu-back.jpg",
-  "images/sokuratetsu-00.png",
   "images/sokuratetsu-memo.png",
   "images/sokuratetsu-memo-01.png",
   "images/sokuratetsu-image-01.png",
   "images/sokuratetsu-poster-front.jpg",
-  "images/sokuratetsu-poster-back.jpg"
+  "images/sokuratetsu-poster-back.jpg",
+  "images/package-images.png",
 ];
 
 let cur = 0;
