@@ -1,14 +1,14 @@
 const images = [
   "images/sokuratetsu-use-image.png",
+  "images/sokuratetsu-front.jpg",
+  "images/sokuratetsu-45.jpg",
+  "images/sokuratetsu-back.jpg",
   "images/sokuratetsu-00.png",
-  "images/image-01.png",
-  "images/image-04.png",
-  "images/image-05.png",
-  "images/image-06.png",
-  "images/image-07.png",
-  "images/image-08.png",
-  "images/image-09.png",
-  "images/package-images.png"
+  "images/sokuratetsu-memo.png",
+  "images/sokuratetsu-memo-01.png",
+  "images/sokuratetsu-image-01.png",
+  "images/sokuratetsu-poster-front.jpg",
+  "images/sokuratetsu-poster-back.jpg"
 ];
 
 let cur = 0;
